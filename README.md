@@ -2,7 +2,7 @@
 
 **SnapCart** is a modern, containerized e-commerce backend built with Laravel, Docker, and MySQL. Designed for scalability, developer clarity, and cyberpunk-inspired branding, SnapCart is the foundation for your next flagship shopping platform.
 --- 
-
+ 
 ## 🚀 Features 
 
 - 🛒 Product & Cart Management (CRUD-ready)
