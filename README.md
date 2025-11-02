@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - 🛒 Product & Cart Management (CRUD-ready)
 - 🔐 User Authentication (JWT-ready)
